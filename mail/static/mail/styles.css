@@ -1,0 +1,43 @@
+textarea.form-control {
+    min-height: 400px;
+    white-space: pre-wrap;;
+}
+
+.form-control {
+    margin-bottom: .5rem;
+}
+
+.bg-gray {
+    background-color: #F3F3F3;
+}
+
+.email {
+    cursor: pointer;
+}
+
+.btn.archive {
+    background-color: #FFA726;
+    color: #FFFFFF;
+}
+
+.btn.archive:hover {
+    background-color: #FB8C00;
+}
+
+.btn.unarchive {
+    background-color: #29B6F6 ;
+    color: #FFFFFF;
+}
+
+.btn.unarchive:hover {
+    background-color: #039BE5;
+}
+
+#reply {
+    background-color: #4CAF50;
+    color: #FFFFFF;
+} 
+
+#reply:hover {
+    background-color: #388E3C;
+}
